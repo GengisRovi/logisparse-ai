@@ -18,5 +18,5 @@ Para ejecutar **LogisParse-AI & Sovereign Node** en tu entorno local y probar la
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/GengisRovi/logisparse-ai.git](https://github.com/Gengis/logisparse-ai.git)
+   git clone [https://github.com/GengisRovi/logisparse-ai.git](https://github.com/GengisRovi/logisparse-ai.git)
    cd logisparse-ai
